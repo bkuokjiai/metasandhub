@@ -4,3 +4,5 @@ func main() { println("hi") }
 # notes
 
 Keep it small.
+
+# 5a7d03
